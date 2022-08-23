@@ -7,8 +7,11 @@
 - 💬 Ask me about you prefer, my skills are mainly in matters related to IT infrastructure
 - 📫 How to reach me: E-mail: diego@qosit.com.br - Instagram: @diegoromanio
 - ⚡ Fun fact: I have been working with IT for 10 years, I have been an entrepreneur for more than 7 years in the area, I like new challenges!
-- ⚙️ I'm co-owner of <a src="https://qosit.com.br/">QoS Information Technology</a>
+- ⚙️ I'm co-owner of QoS Information Technology - https://qosit.com.br/
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
 
 <!--
 **diegoromal/diegoromal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
