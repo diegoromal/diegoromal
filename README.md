@@ -8,7 +8,10 @@
 - ⚡ Fun fact: I have been working with IT for 10 years, I have been an entrepreneur for more than 7 years in the area, I like new challenges!
 - ⚙️ I'm co-owner of QoS Information Technology - https://qosit.com.br/
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" />
+- 🛠️ Technologies and Tools:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" />
+          
 
 - 🌱 I’m currently learning:
 
