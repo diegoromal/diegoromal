@@ -1,11 +1,13 @@
-### Hi there 👋
+## 👋 Hello Devs! Welcome to my Github profile.
+### My name is Diego Romanio de Almeida!
 
 - 🔭 I'm currently working with integrations with asterisk, rocketchat, botpress
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on OpenSource projects
 - 💬 Ask me about you prefer, my skills are mainly in matters related to IT infrastructure
 - 📫 How to reach me: E-mail: diego@qosit.com.br - Instagram: @diegoromanio
-- ⚡ Fun fact: I have been working with IT for 10 years, I have been an entrepreneur for more than 7 years in the area, I like new challenges
+- ⚡ Fun fact: I have been working with IT for 10 years, I have been an entrepreneur for more than 7 years in the area, I like new challenges!
+- I'm co-owner of <a src="https://qosit.com.br/" target="_blank">QoS Information Technology</a>
 
 
 <!--
