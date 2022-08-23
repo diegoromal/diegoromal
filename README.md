@@ -10,7 +10,7 @@
 - ⚙️ I'm co-owner of QoS Information Technology - https://qosit.com.br/
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
 
 <!--
