@@ -1,6 +1,7 @@
 ## 👋 Hello Devs! Welcome to my Github profile.
 ### My name is Diego Romanio de Almeida!
 
+- 📚 I’m currently pursuing a Bachelor's Degree in Software Engineering (1rd semester), at Universidade Positivo (Curitiba, Paraná, Brazil).
 - 🔭 I'm currently working with integrations with asterisk, rocketchat, botpress
 - 👯 I’m looking to collaborate on OpenSource projects
 - 💬 Ask me about you prefer, my skills are mainly in matters related to IT infrastructure
