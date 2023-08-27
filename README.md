@@ -5,7 +5,7 @@
 - 🔭 I'm currently working with integrations with asterisk, rocketchat, botpress
 - 👯 I’m looking to collaborate on OpenSource projects
 - 💬 Ask me about you prefer, my skills are mainly in matters related to IT infrastructure
-- 📫 How to reach me: E-mail: diego@qosit.com.br - Instagram: @diegoromanio
+- 📫 How to reach me: E-mail: diego@qosit.com.br - Instagram: @diego.romal
 - ⚡ Fun fact: I have been working with IT for 10 years, I have been an entrepreneur for more than 7 years in the area, I like new challenges!
 - ⚙️ I'm co-owner of QoS Information Technology - https://qosit.com.br/
 
